@@ -1,0 +1,18 @@
+.container3{
+  display: grid;
+  grid-template-columns: repeat(4,100px);
+  grid-template-rows: repeat(4,100px);
+  gap: 10px;
+  background-color:brown;
+}
+
+
+.Boxes4 {
+  background-color: #f1f1f1;
+color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 6px;
+}
